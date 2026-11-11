@@ -8,8 +8,8 @@
 	const notyf = new Notyf();
 
 
-	const WEB3FORMS_ACCESS_KEY = "34885452-b3dc-4ee0-8a17-2b9d4dfac512";
-	const SITE_KEY = "6LcAkBouAAAAAPmHmc6lV9Rs46WxbyhK0R3zdwz-";
+	const WEB3FORMS_ACCESS_KEY = "275fa4b1-74b1-46c0-a83d-08e3b2bbfcfa";
+	const SITE_KEY = "6LcOkBouAAAAAKmyYGoR1OYSfNJ2MBNE672Tms0T";
 	// Initial value for the email:
 	const subject = "New message from Portfolio Contact Form";
 
